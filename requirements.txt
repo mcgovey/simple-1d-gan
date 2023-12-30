@@ -2,3 +2,7 @@
 matplotlib
 numpy
 keras
+tensorflow
+pydot-ng
+graphviz # brew unlink graphviz && brew link graphviz
+
